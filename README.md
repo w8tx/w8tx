@@ -1,4 +1,4 @@
-## Hi there 👋
+## grey hat in a black-and-white world.
 
 <!--
 **w8tx/w8tx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
