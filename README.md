@@ -1,23 +1,15 @@
 # "Silk Road" ◆ Anonymous Marketplace
+
 💻 **HACKER SERVICES** ■ GPT Worm ■ Website Hacking ■ Social Media Account Hacking ■ Database.
+
 💊 **DRUGS** ■ Tranquilizer Pills ■ Tranquilizer Injections ■ Medications.
-👤 **IDENTITY** ■ Personal Data ■ SIM Cards, ID Cards, Accounts, etc. 
+
+👤 **IDENTITY** ■ Personal Data ■ SIM Cards, ID Cards, Accounts, etc.
+
 ⚔️ **SPECIAL** ■ Data Deletion ■ Account Recovery ■ Privacy Defense System.
+
 🔫 **WEAPONS Vault** ■ Firearms ■ Silencers ■ Grenades, Bombs, Nuclear Weapons, etc.
+
 🌿 **Plants** ■ Marijuana ■ Methamphetamine ■ Drugs.
+
 💀 **ASSASSINATION SERVICES** ■ Hitman ■ Identity Obliteration ■ Kill on Demand.
-
-<!--
-**w8tx/w8tx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
