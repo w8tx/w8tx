@@ -1,4 +1,4 @@
-# "Silk Road" ◆ Anonymous Marketplace
+# "Anonymous Marketplace"
 
 💻 **HACKER SERVICES** ■ GPT Worm ■ Website Hacking ■ Social Media Account Hacking ■ Database.
 
