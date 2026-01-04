@@ -1,15 +1,35 @@
-# "Anonymous Marketplace"
+<h1 align="center">Hey there! 👋</h1>
 
-💻 **HACKER SERVICES** ■ GPT Worm ■ Website Hacking ■ Social Media Account Hacking ■ Database.
+<p align="center">
+  I don't know what bio I want.
+</p>
 
-💊 **DRUGS** ■ Tranquilizer Pills ■ Tranquilizer Injections ■ Medications.
+---
 
-👤 **IDENTITY** ■ Personal Data ■ SIM Cards, ID Cards, Accounts, etc.
+## 📋 Connect With Me 📋
 
-⚔️ **SPECIAL** ■ Data Deletion ■ Account Recovery ■ Privacy Defense System.
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-%23ff4d4d?style=for-the-badge">
+  </a>
+  <a href="https://github.com/ifathh">
+    <img src="https://img.shields.io/badge/GITHUB-%2324292e?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://t.me/username">
+    <img src="https://img.shields.io/badge/TELEGRAM-%230088cc?style=for-the-badge&logo=telegram">
+  </a>
+</p>
 
-🔫 **WEAPONS Vault** ■ Firearms ■ Silencers ■ Grenades, Bombs, Nuclear Weapons, etc.
+---
 
-🌿 **Plants** ■ Marijuana ■ Methamphetamine ■ Drugs.
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ifathh&color=orange&style=flat-square" />
+</p>
 
-💀 **ASSASSINATION SERVICES** ■ Hitman ■ Identity Obliteration ■ Kill on Demand.
+---
+
+### 📌 Pinned Projects
+⭐ Auto Farm Discord Bot  
+⭐ TypeScript Projects  
+⭐ Automation Tools
