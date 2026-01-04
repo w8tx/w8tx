@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I don't know what bio I want.
+  Publicly available information was sufficient.
 </p>
 
 ---
